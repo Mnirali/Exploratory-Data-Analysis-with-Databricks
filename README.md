@@ -1,7 +1,7 @@
 # Exploratory-Data-Analysis-with-Databricks
 Exploratory Data Analysis (EDA) for Insurance Company Dataset
 
-I found sample data from Kaggle which is about "Prudential Life Insurance Assessment - Can you make buying life insurance easier?". This sample data is great for practice data analysis. I have used Pycharm & Azure Databricks notebook to perform analysis.
+I found sample data from Kaggle which is about "Prudential Life Insurance Assessment - Can you make buying life insurance easier?". This sample data is great for practice data analysis. I have used Jupyter Notebook & Azure Databricks notebook to perform analysis.
 
 Data Fields Description
 
